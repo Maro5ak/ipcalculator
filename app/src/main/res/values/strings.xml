@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IP Calculator</string>
+    <string name="first_address">First Address:</string>
+    <string name="last_address">Last Address:</string>
+    <string name="slash">/</string>
+    <string name="school">SPŠ and OA Bruntál</string>
+    <string name="app_header">IP Calculator</string>
+    <string name="ip_address">IP Address</string>
+    <string name="mask">Mask</string>
+    <string name="calculate">Calculate</string>
+    <string name="mask_bit">Mask in Bits:</string>
+    <string name="network">Network:</string>
+    <string name="broadcast">Broadcast:</string>
+    <string name="sum_addresses">Number of Addresses:</string>
+    <string name="ip_class">Address Class:</string>
+    <string name="ip_visibility">IP Address Type:</string>
+</resources>
